@@ -21,7 +21,7 @@
     }
 
     //Please don't reveal these :)  (it is a free api, though)
-    const APIKEY ='0cafea9c6cmsh2aa3b6b3496c0a1p17b3f8jsn91b94ea9021c';
+    const APIKEY ='**************************************';
     const APIHOST ='apidojo-yahoo-finance-v1.p.rapidapi.com';
 
 
